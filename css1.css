@@ -77,6 +77,77 @@ div{
 .cartas{
     width: 100%;
 
+}
 
+a{
+    text-decoration: none;
+}
 
+#conocermas{
+    width: 100%;
+    padding: 5px;
+
+}
+
+.extras{
+    display: inline-block;
+    width: 15%;
+    padding-bottom: 15px;
+    padding: 5px;
+
+}
+
+.iconos{
+    width: 80%;
+
+}
+
+#problema{
+    padding: 5px;
+    padding-top: 30px;
+    
+}
+
+.resolucion{
+    border-style: solid;
+    border-color: #afbfeb;
+    background-color: #afbfeb;
+    width: 20%;
+    display: inline-block;
+    border-radius: 15px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#parte1{
+    background-color: #ebedf1;
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+    height: 150 px;
+    display: inline-block;
+}   
+
+.otros{
+    display: inline-block;
+    padding-top: 20px;
+    padding: 20px;
+}
+
+.otraspaginas{
+    width: 80%;
+    padding: 5px;
+}
+
+.otraspaginas1{
+    width: 50%;
+}
+
+#descargar{
+    background-color: #afbfeb;
+    text-align: left;
+    padding-left: 20%;
+    padding-top: 20px;
+    height: 200px;
 }
